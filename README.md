@@ -3,7 +3,8 @@
 </div> 
 
 <h1>Hi There! 👋 </h1>
-Thanks for visiting my profile ! 🤝 I am Khurram, an aspiring data scientist passionate about uncovering useful insights from data 📊, and this github profile showcases the projects I have worked on along my journey. Feel free to browse, share and get in touch if you find anything interesting 😄:
+<p> Thanks for visiting my profile ! 🤝 I am Khurram, an aspiring data scientist passionate about uncovering useful insights from data 📊 </p>
+<p> This github profile showcases the projects I have worked on along my journey. Feel free to browse, share and get in touch if you find anything interesting 😄 </p>
 
 
 <h2>About me ℹ️</h2>
