@@ -7,6 +7,7 @@ Thanks for visiting my profile ! 🤝 I am Khurram, an aspiring data scientist p
 
 
 <h2>About me ℹ️</h2>
+<img src = "https://media.giphy.com/media/8clGlbB7go120LQfwB/giphy.gif" align="center" width ="150">
 
 - 👀 I’m interested in Machine Learning and Deep Learning
 - ⚡ Areas of interest are varied including urban planning, gaming, cars, sports, sustainability, and policy making, just to name a few
